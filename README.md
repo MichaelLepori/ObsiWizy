@@ -17,3 +17,9 @@ v1.0.0: First Release with basic functions:
 - Start ObsiWizy and Obsidian together with Windows
 - Create WikiLinks (in Clipboard to copy in your Notes)
 
+Take care.
+
+Michael
+
+---
+"Don't forget, that there is a way to do better, what you are doing. There is always a way to do and to be better!"
