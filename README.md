@@ -16,6 +16,8 @@ v1.0.0: First Release with basic functions:
 - Close ObsiWizy (and Obsidian, if you'd like)
 - Start ObsiWizy and Obsidian together with Windows
 - Create WikiLinks (in Clipboard to copy in your Notes)
+![image](https://user-images.githubusercontent.com/39479918/197417492-c25e6070-6d6e-4ef6-9cc1-6e5153f12361.png)
+
 
 Take care.
 
