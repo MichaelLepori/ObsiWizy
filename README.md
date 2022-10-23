@@ -7,7 +7,7 @@ What can you do with ObsiWizy?
 Start Obsidian. Maximize it and hide it.
 Create WikiLinks in a new way.
 
-Here the [A Presentation video of ObsiWizy](https://youtu.be/EJETt-5DSP8)
+Here the [A Presentation on YouTube of ObsiWizy](https://youtu.be/EJETt-5DSP8)
 
 v1.0.0: First Release with basic functions:
 - Start Obsidian
