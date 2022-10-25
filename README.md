@@ -9,6 +9,13 @@ Create WikiLinks in a new way.
 
 Here the [A Presentation on YouTube of ObsiWizy](https://youtu.be/EJETt-5DSP8)
 
+v1.0.1:
+New:
+- You can now choose to hide Obsidian direct after starting it. Default: NoHide.
+
+Fixes:
+- The position of the second Window for the Title of a WikiLink was not centered.
+
 v1.0.0: First Release with basic functions:
 - Start Obsidian
 - Hide Obsidian
