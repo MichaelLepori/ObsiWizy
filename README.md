@@ -9,7 +9,7 @@ Create WikiLinks in a new way.
 
 Here the [A Presentation on YouTube of ObsiWizy](https://youtu.be/EJETt-5DSP8)
 v1.0.2:
-- New
+- New:
   - You can now create Links to Locale Files with Click on the ObsiWizy Icon or with **Shift + Windowskey + F**
   
   ![image](https://user-images.githubusercontent.com/39479918/198104953-db4fd022-0e5a-4f2b-9fb4-ef8d8a55abb7.png)
