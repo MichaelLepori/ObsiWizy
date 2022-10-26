@@ -7,7 +7,8 @@ What can you do with ObsiWizy?
 Start Obsidian. Maximize it and hide it.
 Create WikiLinks in a new way.
 
-Here the [A Presentation on YouTube of ObsiWizy](https://youtu.be/EJETt-5DSP8)
+Here the [Presentation on YouTube of ObsiWizy](https://youtu.be/EJETt-5DSP8)
+
 v1.0.2:
 - New:
   - You can now create Links to Locale Files with Click on the ObsiWizy Icon or with **Shift + Windowskey + F**
