@@ -1,7 +1,7 @@
 # ObsiWizy
 ![image](https://user-images.githubusercontent.com/39479918/197396967-831d7f63-d61d-43df-b153-73db1a9375fc.png)
 
-Tool for Obsidian Users
+Tool for **Obsidian Users**
 
 What can you do with ObsiWizy?
 Start Obsidian. Maximize it and hide it.
