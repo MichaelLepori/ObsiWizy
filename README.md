@@ -9,6 +9,10 @@ Create WikiLinks in a new way.
 
 Here the [Presentation on YouTube of ObsiWizy](https://youtu.be/EJETt-5DSP8)
 
+v1.0.3:
+- New
+  - The Program is automatically retrieving the Unique ID of the Obisidian Window. With this, if the window is open but not hidden, then it will appear. If you are looking to obsidian and then you click on the ObsiWizy icon, Obsidian will be hidden. It wasn't easy to figure it out, but now it is working as expected.
+
 v1.0.2:
 - New:
   - You can now create Links to Locale Files with Click on the ObsiWizy Icon or with **Shift + Windowskey + F**
