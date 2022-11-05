@@ -9,7 +9,11 @@ Create WikiLinks in a new way.
 
 Here the [Presentation on YouTube of ObsiWizy](https://youtu.be/EJETt-5DSP8)
 
+v1.0.6:
+- Workaround: Now it will work everytime: hide, unhide and move. ObsiWizy will click automatically on Obsidian. You can set your favorite Coordinates. I think, that it works well.
+
 v1.0.5:
+
 The previous Fix didn't work as expected.
 Cause some Limitation of the OS, I had to change completely, how the Windows (and the hidden Windows) are checked.
 There is now a new Option under Settings.
